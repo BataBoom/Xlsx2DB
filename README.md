@@ -1,3 +1,3 @@
 # Xlsx2PHP
 
-Search XLSX for '\' when offering two networks over a single game, to list both networks in a clean array. 
+Search XLSX for networks, if more than one network per game, list both/all networks in a clean array. 
